@@ -13,7 +13,6 @@ INDEX VERSION 1.131+C:\Users\palla\Desktop\Photon Workspace\.metadata\.plugins\o
 2533783201.index
 1743714446.index
 3201640669.index
-471759171.index
 2847828762.index
 1899709885.index
 1956408089.index
