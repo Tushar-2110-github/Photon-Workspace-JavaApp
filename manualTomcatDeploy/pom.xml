@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>manualDeploy</finalName>
+    <finalName>manualTomcatDeploy</finalName>
   </build>
 </project>
