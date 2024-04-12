@@ -48,12 +48,15 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.manual.upload.manualDeploy"/>
 			<item value="ManualUpload.UploadOnTomcat"/>
 		</list>
 		<list key="groupId">
+			<item value="com.manual.upload"/>
 			<item value="ManualUpload"/>
 		</list>
 		<list key="artifactId">
+			<item value="manualDeploy"/>
 			<item value="UploadOnTomcat"/>
 		</list>
 		<list key="projectNameTemplate">
