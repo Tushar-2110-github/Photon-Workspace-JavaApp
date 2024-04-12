@@ -1,5 +1,7 @@
 INDEX VERSION 1.131
 C:\Users\palla\Desktop\Photon Workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1053183383.index
 \UploadOnTomcat\src\main\java
+C:\Users\palla\Desktop\Photon Workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\350789547.index
+\manualDeploy\src\main\resources
 C:\Users\palla\Desktop\Photon Workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1507697720.index
 \UploadOnTomcat\src\main\resources
